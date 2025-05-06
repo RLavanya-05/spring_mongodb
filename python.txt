@@ -1,3 +1,4 @@
+Python notes with different topics
 #DivExp
 import sys
 def DivExp(a,b):
